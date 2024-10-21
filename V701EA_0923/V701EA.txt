@@ -1,0 +1,5 @@
+git status - állapot ellenőrzés
+git add "V703EA_0923/*.*"
+git add
+git commit -m "2. pract" fel commit-oljuk a stage-re
+git push
